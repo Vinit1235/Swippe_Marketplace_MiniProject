@@ -1,0 +1,29 @@
+# Flask E-commerce Requirements (Production-Ready for Render)
+
+# Core Web Framework
+Flask==3.0.3
+Flask-WTF==1.2.1
+WTForms==3.1.2
+
+# Authentication & Security
+bcrypt==4.1.3
+
+# Production Server
+gunicorn==21.2.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.0.0
+
+# Database (PostgreSQL for Render)
+psycopg2-binary==2.9.9
+
+# AI & Search (Lightweight - OpenAI only)
+openai==1.12.0
+
+# Note: ChromaDB removed to avoid heavy dependencies
+# Chatbot will use database search + OpenAI API instead
+# This ensures fast deployment and reliable operation on Render
