@@ -189,6 +189,7 @@ See `API_KEYS_GUIDE.md` for detailed step-by-step instructions.
   - Skip holiday options
   - Order completion tracking
   - Monthly spend analytics
+- The data was taken from kaggle
 
 ## 🎯 Features in Detail
 
