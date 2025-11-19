@@ -404,14 +404,18 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the MIT LICENCE file for details.
 
 ## 👥 Team
 
 This project was built by a team of 5 SE Data Science students as our capstone project.
 
 **Team Members:**
-- [Add your names here]
+- VINIT VIJAY BADIGER
+- RUDRA SINGH 
+- JANHAVI GUPTA 
+- ADARSH PANDEY 
+- SHREYA SINGH 
 
 ## 🙏 Acknowledgments
 
